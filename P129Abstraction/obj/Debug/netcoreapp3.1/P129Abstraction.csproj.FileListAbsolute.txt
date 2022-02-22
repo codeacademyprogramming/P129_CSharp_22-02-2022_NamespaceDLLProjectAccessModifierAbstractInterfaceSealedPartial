@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\bin\Debug\netcoreapp3.1\P129Abstraction.exe
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\bin\Debug\netcoreapp3.1\P129Abstraction.deps.json
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\bin\Debug\netcoreapp3.1\P129Abstraction.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\bin\Debug\netcoreapp3.1\P129Abstraction.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\bin\Debug\netcoreapp3.1\P129Abstraction.dll
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\bin\Debug\netcoreapp3.1\P129Abstraction.pdb
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\obj\Debug\netcoreapp3.1\P129Abstraction.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\obj\Debug\netcoreapp3.1\P129Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\obj\Debug\netcoreapp3.1\P129Abstraction.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\obj\Debug\netcoreapp3.1\P129Abstraction.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\obj\Debug\netcoreapp3.1\P129Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\obj\Debug\netcoreapp3.1\P129Abstraction.dll
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\obj\Debug\netcoreapp3.1\P129Abstraction.pdb
+C:\Users\memme\Desktop\P129\Task\P129Abstraction\obj\Debug\netcoreapp3.1\P129Abstraction.genruntimeconfig.cache
