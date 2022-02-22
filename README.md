@@ -1,0 +1,1 @@
+# P129_CSharp_22-02-2022_NamespaceDLLProjectAccessModifierAbstractInterfaceSealedPartial
